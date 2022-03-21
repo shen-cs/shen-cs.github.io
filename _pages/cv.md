@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, National Taiwan University, 2019
+* M.S. in Communication Engineering, Nation Taiwan University, 2021
+* Ph.D in Communication Engineering, Nation Taiwan University, 2026 (expected)
 
 Work experience
 ======
