@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hi I am CS.
 * ok
 * RF

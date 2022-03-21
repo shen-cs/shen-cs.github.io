@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-TW"
 title                    : "Shen, Chang-Shao"
 title_separator          : "-"
 name                     : &name "Shen, Chang-Shao"
-description              : &description "PhD student at National Taiwan University"
+description              : &description "Ph.D student at National Taiwna University"
 url                      : https://shen-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shen-cs/shen-cs.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shen, Chang-Shao"
   avatar           : "profile.png"
-  bio              : "PhD student at Graduate Institute of Communication Engineering, National Taiwan University"
+  bio              : "Ph.D Student at Graudate Institute of Communication Engineering, National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stationaryfront"
+  github           : "shen-cs"
   google_plus      :
   keybase          :
   instagram        :
