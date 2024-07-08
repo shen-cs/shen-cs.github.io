@@ -245,9 +245,6 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     racc (1.6.0)
-    rack (2.2.3)
-    rack-cors (1.1.1)
-      rack (>= 2.0.0)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -287,7 +284,6 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  rack-cors
 
 BUNDLED WITH
    1.17.2
